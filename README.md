@@ -1,3 +1,3 @@
-#LEARNING
+# LEARNING
 
-  in learning git from start!
+  in learning git from start!!
